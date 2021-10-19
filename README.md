@@ -25,7 +25,7 @@ Module 10 - Naive Bayes
 
 Module 11 - Decision Trees and Random Forests
 
-Module 12 - Graident Descent and Gradient Boosting
+Module 12 - Gradient Descent and Gradient Boosting
 
 Module 13 - Neural Networks
 

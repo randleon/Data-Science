@@ -1,7 +1,7 @@
 # Data_Science_Fall_2021
 Data Science assignments and projects for Katz School's Data Science course, fall 2021
 
-Modules/Projects cover topics as follows
+Modules/Projects/assignments cover topics as follows
 
 Module 1 - What is Data Science?
 

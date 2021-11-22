@@ -12,7 +12,7 @@ Module 4 - Feature Selection + Dimensionality Reduction
 
 Module 5 - Evaluating ML Model Performance
 
-Module 6 - Regression for Numeric Data
+Module 6 - Regression for Numeric Data - Project 1 - Implementing a Series of Regression Models
 
 Module 7 - Regression for Categorical Data
 

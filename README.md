@@ -4,32 +4,28 @@ Data Science assignments and projects for Katz School's Data Science course, fal
 
 Modules/Projects/assignments cover topics as follows
 
-Module 1 - What is Data Science?
+Module 1 - Data Preparation + Feature Engineering
 
-Module 2 - Cross Validation
+Module 2 - Feature Selection + Dimensionality Reduction
 
-Module 3 - Data Preparation + Feature Engineering
+Module 3 - Evaluating ML Model Performance
 
-Module 4 - Feature Selection + Dimensionality Reduction
+Module 4 - Regression for Numeric Data
 
-Module 5 - Evaluating ML Model Performance
+Module 5 - Regression for Categorical Data
 
-Module 6 - Regression for Numeric Data
+Module 6 - K-Nearest Neighbors and Support Vector Machines
 
-Module 7 - Regression for Categorical Data
+Module 7 - Clustering
 
-Module 8 - K-Nearest Neighbors and Support Vector Machines
+Module 8 - Naive Bayes
 
-Module 9 - Clustering
+Module 9 - Decision Trees and Random Forests
 
-Module 10 - Naive Bayes
+Module 10 - Gradient Descent and Gradient Boosting
 
-Module 11 - Decision Trees and Random Forests
+Module 11 - Neural Networks
 
-Module 12 - Gradient Descent and Gradient Boosting
+Module 12 - Automated Machine Learning (AML) tools
 
-Module 13 - Neural Networks
-
-Module 14 - Automated Machine Learning (AML) tools
-
-Module 15 - Final Project!
+Module 13 - Final Project!
